@@ -1,2 +1,3 @@
 # hello-world
-A repository for the tutorial
+
+I develop .NET applications. I live in the USA in North Texas.
